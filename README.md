@@ -5,13 +5,13 @@ A collection of plugins for Claude Cowork.
 ## Installation
 
 ```bash
-claude plugins add ryankee/claude-plugins
+claude plugins add ryankee/plugins
 ```
 
 Or install a specific plugin:
 
 ```bash
-claude plugins add ryankee/claude-plugins/personal-os
+claude plugins add ryankee/plugins/personal-os
 ```
 
 ## Available Plugins

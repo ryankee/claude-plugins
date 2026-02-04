@@ -32,7 +32,7 @@
   "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryankee/claude-plugins"
+    "url": "https://github.com/ryankee/plugins"
   },
   "engines": {
     "node": ">=18"
