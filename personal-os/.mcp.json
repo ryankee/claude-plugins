@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "personal-os": {
+      "command": "npx",
+      "args": ["@rykee/personal-os-mcp"],
+      "env": {
+        "PERSONALOS_BASE_DIR": "${WORKSPACE}",
+        "TASKS_DIR": "${WORKSPACE}/Tasks",
+        "KNOWLEDGE_DIR": "${WORKSPACE}/Knowledge",
+        "BACKLOG_FILE": "${WORKSPACE}/BACKLOG.md",
+        "GOALS_FILE": "${WORKSPACE}/GOALS.md"
+      }
+    }
+  }
+}

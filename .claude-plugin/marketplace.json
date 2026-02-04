@@ -1,0 +1,13 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "Ryan Kee"
+  },
+  "plugins": [
+    {
+      "name": "personal-os",
+      "source": "./personal-os",
+      "description": "AI-powered task management with goal-driven prioritization. Capture unstructured thoughts in a backlog, process them with smart deduplication, and get tasks aligned with your personal goals. Based on PersonalOS by Amanai Product."
+    }
+  ]
+}
