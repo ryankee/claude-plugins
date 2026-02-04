@@ -1,5 +1,12 @@
 {
   "mcpServers": {
+    "personal-os": {
+      "command": "npx",
+      "args": ["@rykee/personal-os-mcp"],
+      "env": {
+        "WORKSPACE": "${WORKSPACE}"
+      }
+    },
     "slack": {
       "type": "http",
       "url": "https://mcp.slack.com/mcp"
