@@ -1,15 +1,8 @@
 {
   "name": "personal-os",
   "version": "1.0.0",
-  "description": "AI-powered task management framework with goal-driven prioritization. Capture unstructured thoughts in a backlog, process them with smart deduplication, and get automatically prioritized tasks aligned with your personal goals. Based on PersonalOS by Amanai Product.",
+  "description": "AI-powered task management with goal-driven prioritization. Capture unstructured thoughts in a backlog, process them with smart deduplication, and get tasks aligned with your personal goals. Based on PersonalOS by Amanai Product.",
   "author": {
     "name": "Ryan Kee"
-  },
-  "repository": "https://github.com/ryankee/plugins",
-  "attribution": {
-    "original_project": "PersonalOS",
-    "original_author": "Amanai Product",
-    "original_repository": "https://github.com/amanaiproduct/personal-os",
-    "license": "CC-BY-NC-SA-4.0"
   }
 }
